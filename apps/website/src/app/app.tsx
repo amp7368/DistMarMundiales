@@ -1,16 +1,15 @@
-import styled from '@emotion/styled';
-import NxWelcome from './nx-welcome';
+import { Route } from 'react-router-dom';
 
-const StyledApp = styled.div`
-  // Your style here
-`;
+import { ContactPage } from './contact/ContactPage';
+import { LandingPage } from './landing/LandingPage';
 
 export function App() {
-  return (
-    <StyledApp>
-      <NxWelcome title="website" />
-    </StyledApp>
-  );
+    return (
+        <>
+            <Route path={'/'} render={LandingPage}></Route>;
+            <Route path={'/contact'} render={ContactPage}></Route>;
+        </>
+    );
 }
 
 export default App;
