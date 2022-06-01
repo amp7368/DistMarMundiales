@@ -6,8 +6,8 @@ import { LandingPage } from './landing/LandingPage';
 export function App() {
     return (
         <>
-            <Route path={'/'} render={LandingPage}></Route>;
-            <Route path={'/contact'} render={ContactPage}></Route>;
+            <Route path={'/'} render={LandingPage}></Route>
+            <Route path={'/contact'} render={ContactPage}></Route>
         </>
     );
 }

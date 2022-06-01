@@ -1,0 +1,147 @@
+{
+    "metadata.description": {
+        "en": "Are you a chemical engineer or a laboratory that requires bacterial endotoxin testing using the Limulus Amebocyte Lysate (LAL) test? Distribuidora de Marcas Mundiales S.A de C.V is a mexican distributor authorized by Associates of Cape Cod Inc. with 30 years of experience importing products for quality control in serums and inyectables.",
+        "es": "¿Eres ingeniero químico o un laboratorio que necesita realizar el método de lisado de amebocitos de limulus de cangrejo herradura (prueba LAL) para la detección de endotoxinas? Distribuidora de Marcas Mundiales S.A de C.V es un distribuidor autorizado de Associates of Cape Cod Inc., que tiene 30 años importando los productos para control de calidad en sueros e inyectables."
+    },
+    "metadata.keywords": {
+        "en": "ACC, Associates of Cape Cod Inc, LAL, DMM, Distribuidora de Marcas Mundiales, Endotoxins, Pharmacopeia, LRW, Pyrotell, FDA, Reagent ",
+        "es": "Laboratorios, Endotoxinas, Farmacopea, Sueros, Inyectables, Bacterias, Cangrejo herradura, lisado de amebocitos, patógenos, E.Coli, Escherichia, Coli, Reactivo"
+    },
+    "appbar.homepage": {
+        "en": "HOME",
+        "es": "INICIO"
+    },
+    "appbar.products": {
+        "en": "PRODUCTS",
+        "es": "PRODUCTOS"
+    },
+    "appbar.acc": "[ASSOCIATES OF CAPE COD]{https://www.acciusa.com/pdfs/catalogs/ACC%20Catalog%20-%20CORP_0075%20R2%20US.pdf}",
+    "appbar.quotations": {
+        "en": "QUOTATIONS",
+        "es": "COTIZACIONES"
+    },
+    "slides.image1": {
+        "title": { "en": "¿Who are we?", "es": "¿Quiénes somos?" },
+        "en": "Distribuidora de Marcas Mundiales S.A de C.V was established in 1996. As an authorized Associates of Cape Cod Inc. distributor, we have 26 years of experience and were the first to import the Limulus Amebocyte Lysate Test (LAL) to México. ",
+        "es": "Distribuidora de Marcas Mundiales S.A de C.V se fundó en 1996. Como distribuidor autorizado de Associates of Cape Cod Inc, tenemos 26 años de experiencia y fuimos los primeros en traer la prueba de Limulus Amebocites Lysate (LAL) a México."
+    },
+    "slides.image2": {
+        "entitle": "¿What does it mean to be the first?",
+        "estitle": "¿Qué significa ser los primeros?",
+        "en": "Since our arrival to México, the Mexican pharmacopeia has made LAL testing compulsory when determining bacterial endotoxins in serums and inyectable medicaments. Administering contaminated medicines are capable of shock response and death. ",
+        "es": "Desde nuestra llegada a México, la farmacopea exige la aplicación del método de lisado de amebocitos de limulus de cangrejo herradura, para la determinación de endotoxinas bacterianas en sueros e inyectables, sustancias que contaminan medicamentos, que de ser administrados, son capaces de provocar una respuesta febril, shock y muerte."
+    },
+    "slides.image3": {
+        "entitle": "¿What is our mission?",
+        "estitle": "¿Cúal es nuestra misión?",
+        "en": "Our mission is to distribute in Mexico the first test approved by the US FDA for bacterial endotoxins in 1983. This test helps determine the existence of pathogens like Escherichia Coli and helps control the quality of serums and injectable medicines, without the need of testing in animals. ",
+        "es": "Nuestra misión es distribuir en México la primer prueba de endotoxinas aprobada por la FDA (Food and Drug Administration) de Estados Unidos en 1983, que permita determinar la existencia de patógenos como la Escherichia Coli para controlar la calidad de sueros e inyectables, sin la necesidad de usar bioterios de conejos."
+    },
+    "slidebar.product1": {
+        "entitle": "Pyrotell® Reagent for gel-clot formulation",
+        "estitle": "Reactivo LAL para método de coagulación",
+        "en": "Pyrotell® lysate was the first LAL gel-clot reagent licensed by the US FDA. Pyrotell lysate is a robust reagent, producing firm, easily readable clots and is resistant to interfering substances. It's easy to use and is available in the following presentations:",
+        "es": "El lisado Pyrotell® fue el primer reactivo de gel-clot LAL autorizado por la FDA de EE. UU. El lisado de Pyrotell es un reactivo sólido que produce coágulos firmes y fáciles de leer y es resistente a las sustancias que interfieren. Es fácil de usar y está disponible en las siguientes presentaciones:",
+        "tube1": "Pyrotell® Gel-Clot G5003-5 (0.03 EU/mL)",
+        "tube2": "Pyrotell® Gel-Clot G5006-5 (0.06 EU/mL)",
+        "enbutton": "[More product information]{https://www.acciusa.com/products-and-services/bet-products/lal-reagents/pyrotell}",
+        "esbutton": "[Más información del producto]{https://www.acciusa.com/products-and-services/bet-products/lal-reagents/pyrotell}"
+    },
+    "slidebar.product2": {
+        "entitle": "LAL Reagent Water (LRW)",
+        "estitle": "Agua Reactivo",
+        "en": "LRW is specially processed water intended for reconstitution of LAL reagents and CSE, and to dilute samples and standards for LAL assays. Not for human or animal injection.",
+        "es": "Es agua especialmente procesada destinada a la reconstitución de reactivos LAL y CSE, y para diluir muestras y estándares para ensayos LAL. No para inyección humana o animal.",
+        "entube1": "LAL Reagent Water (LRW) WP100C-30 (30 water bottles)",
+        "estube1": "LAL Reagent Water (LRW) WP100C-30 (30 botellas de aguas)",
+        "enbutton": "[More product information]{https://www.acciusa.com/products-and-services/bet-products/accessory-products/lal-reagent-water}",
+        "esbutton": "[Más información del producto]{https://www.acciusa.com/products-and-services/bet-products/accessory-products/lal-reagent-water}"
+    },
+    "slidebar.product3": {
+        "entitle": "Control Standard Endotoxin (CSE)",
+        "estitle": "Entodoxina Escherichia Coli 0113",
+        "en": "It is a purified extract of E. coliO113:H10, the same strain used for the United States Pharmacopeia and the European Pharmacopoeia reference standard endotoxin (RSE).\nCSE is used as an economic alternative to the RSE. CSEs are standardized against the RSE as indicated on the Certificate of Analysis, so that results can be reported in Endotoxin Units (EU) and International Units (IU).",
+        "es": "Es un extracto purificado de E. coliO113:H10, la misma cepa utilizada para la endotoxina estándar de referencia (RSE) de la Farmacopea de los Estados Unidos y la Farmacopea Europea.\nCSE se utiliza como una alternativa económica a la RSE. Los CSE están estandarizados contra el RSE como se indica en el Certificado de análisis, de modo que los resultados se pueden informar en Unidades de endotoxina (UE) y Unidades internacionales (UI).",
+        "tube1": "Endotoxin E. Coli 0113 E0005-5",
+        "enbutton": "[More product information]{https://www.acciusa.com/products-and-services/bet-products/lal-reagents/control-standard-endotoxin}",
+        "esbutton": "[Más información del producto]{https://www.acciusa.com/products-and-services/bet-products/lal-reagents/control-standard-endotoxin}"
+    },
+    "slidebar.product4": {
+        "entitle": "Pyrotubes® Labware",
+        "estitle": "Tubos de vidrio despirogenizados",
+        "en": "dilution tubes are for laboratory use only and are certified free of interfering endotoxins and glucans.",
+        "es": "Los tubos de dilución son solo para uso en laboratorio y están certificados como libres de endotoxinas y glucanos que interfieren.",
+        "entube1": "Pyrotubes® TS050-10 (Includes 500 tubes)",
+        "estube1": "Pyrotubes® TS050-10 (Paquete con 500 tubos)",
+        "enbutton": "[More product information]{https://www.acciusa.com/products-and-services/bet-products/accessory-products/pyrotubes}",
+        "esbutton": "[Más información del producto]{https://www.acciusa.com/products-and-services/bet-products/accessory-products/pyrotubes}"
+    },
+    "slidebar.catalogbutton": {
+        "entitle": "View the full Associates of Capecod Inc. catalogue*",
+        "estitle": "Ver el catálogo completo de productos de Associates of Capecod Inc.*",
+        "endisclaimer": "*Packages with 25 pieces are not available for México",
+        "esdisclaimer": "*Las presentaciones de 25 piezas no están disponibles para México"
+    },
+    "quotations.instructions": {
+        "entitle": "All products are ordered to the provider in the USA and require of a quotation with a minimum order for its importation to México*",
+        "estitle": "Todos los productos son pedidos al proveedor desde Estados Unidos y requieren de una cotización mínima de antemano para su importación*",
+        "eninstructions": "You may use the fields below to request your quotation or you can send it directly to the following email: andreaautrique@outlook.com",
+        "esinstructions": "Puedes usar las siguientes casillas para solicitar tu cotización o puedes enviarla directamente al siguiente correo: andreaautrique@outlook.com",
+        "enupload": "All quotations uploaded or sent via email have to include the product code and the quantities to order",
+        "esupload": "Si deseas subir el archivo de tu cotización o enviarlo por correo, éste debe incluir el código del producto y las cantidades que quieres ordenar",
+        "endisclaimer": "*After you send your quotation, prices may vary based on the current price of USD dollars, custom costs and inflation.",
+        "esdisclaimer": "*Al enviar tu cotización, los precios quedarán sujetos en base al precio del dólar actual, los costos aduanales y la inflación."
+    },
+    "footer.aboutus": {
+        "entitle": "ABOUT US",
+        "estitle": "NOSOTROS",
+        "en": "During the past 30 years, we have accomplished…",
+        "es": "En 30 años hemos logrado…",
+        "enarrow1": "LAL test was approved in México",
+        "esarrow1": "Que se aprobara la prueba LAL en México",
+        "enarrow2": "We organized seminaries in Guadalajara, México, in Collins Laboratories",
+        "esarrow2": "Organizamos seminarios en Guadalajara en los Laboratorios Collins",
+        "enarrow3": "We distribute to the most important Mexican laboratories",
+        "esarrow3": "Distribuimos para los laboratorios más importantes de México",
+        "enarrow4": "We distribute for public organizations such as Universidad Autónoma de México and Cofepris",
+        "esarrow4": "Distribuimos para Instituciones públicas como la Universidad Autónoma de México y la Cofepris",
+        "enarrow5": "The satisfaction of our clients through consultations for the adequate use of our products",
+        "esarrow5": "La satisfacción del cliente a través de asesorías para el uso adecuado de nuestros productos"
+    },
+    "footer.quotations": {
+        "title": {
+            "en": "QUOTATIONS",
+            "es": "PRODUCTOS"
+        },
+        "en": "To make an order, send your quotation to the following email:",
+        "es": "Para realizar un pedido, envie su cotización al siguiente correo:",
+        "envelopeicon": "andreaautrique@outlook.com",
+        "en2": "Inquires and consultations can be requested via the following telephone number:",
+        "es2": "Dudas, aclaraciones y asesorías del reactivo por teléfono:",
+        "phoneicon": "55283591"
+    },
+    "footer.products": {
+        "entitle": "PRODUCTS",
+        "estitle": "PRODUCTOS",
+        "en": "Our most requested products are:",
+        "es": "Nuestros productos más solicitados son:",
+        "tube1": "Pyrotell® Gel-Clot G5003-5 (0.03 EU/mL)",
+        "tube2": "Pyrotell® Gel-Clot G5006-5 (0.06 EU/mL)",
+        "tube3": "LAL Reagent Water (LRW) WP100C-30",
+        "tube4": "Endotoxin E. Coli 0113 E0005-5",
+        "tube5": "Pyrotubes® TS050-10"
+    },
+    "footer.acc": {
+        "enestitle": "ASSOCIATES OF CAPECOD",
+        "en": "Find more information about LAL endotoxin testing:",
+        "es": "Encuentre más información sobre la prueba de endotoxinas LAL:",
+        "arrow1": "[Global Distributors México]{https://www.acciusa.com/contact-us/?gdi=23}",
+        "arrow2": "[Product Catalog]{https://www.acciusa.com/tools-and-resources/catalogs/}",
+        "arrow3": "[FARMACOPEA]{http://www.anmat.gov.ar/webanmat/fna/flip_pages/Farmacopea_Vol_I/files/assets/basic-html/page190.html}",
+        "arrow4": "[FDA Guidance for Endotoxin Testing]{https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-industry-pyrogen-and-endotoxins-testing-questions-and-answers"
+    },
+    "footer.copyright": {
+        "en": "1996-2022 Distribuidora de Marcas Mundiales S.A de C.V. All rights reserved. Website elaborated by Aaron Peterham",
+        "es": "1996-2022 Distribuidora de Marcas Mundiales S.A de C.V. Todos los derechos reservados. Sitio elaborado por Aaron Peterham"
+    }
+}
